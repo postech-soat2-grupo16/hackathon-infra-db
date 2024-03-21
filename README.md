@@ -1,2 +1,2 @@
-# hackathon-infra-db
-Infra para DB Hackathon
+# pagamentos-infra-db
+Repositório da infra DB Pagamentos
